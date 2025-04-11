@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.project</groupId>
 	<artifactId>jenkinscicd</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>jenkinscicd</name>
 	<description>Spring Boot Project for CI/CD with Jenkins</description>
 	<url/>
